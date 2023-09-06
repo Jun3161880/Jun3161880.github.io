@@ -1,0 +1,9 @@
+table-style
+  th {
+    width: 200px;
+  }
+  .cell-long {
+    width: 400px;
+  }
+
+
